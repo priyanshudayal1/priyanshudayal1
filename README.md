@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyanshudayal1
-- 👀 I’m interested in Web Development and ML 
+- 👀 I’m interested in Web Development and AI ML 
 - 🌱 I’m currently learning Machine Learning and Advanced Next Js Features
 - 💞️ I’m looking to collaborate on some freelancing or open source projects if given opportunity
 - 📫 How to reach me Connect with me on my Linkendin profile @priyanshudayal
